@@ -18,6 +18,12 @@
 ✅ Reklam sayaçlarını atlama
 
 ---
+## ℹ️ Bilinen Sorunlar ve Notlar
+
+- **YouTube'un AdBlock algısı:** YouTube bazı durumlarda reklam engelleyiciyi tespit edebilir. Bu durumla karşılaşırsanız, **sayfayı yenilemeniz sorunu çözecektir.**
+- **Siyah ekran problemi:** Reklamdan sonra video başlamazsa ya da siyah ekran oluşursa, yine **sayfayı yenilemek yeterlidir.**
+- Geliştirme süreci boyunca bu tip sorunlar minimuma indirilmeye çalışılmıştır. Geri bildirimlerinizle daha kararlı hale getirilebilir.
+---
 
 ## 📦 Kurulum | Installation
 
